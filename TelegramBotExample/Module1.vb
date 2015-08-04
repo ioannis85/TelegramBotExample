@@ -7,7 +7,7 @@ Imports Telegram.Bot.Types
 
 Module Module1
     Dim offset As Integer = 265939466
-    Dim telegramBot As New Api("121479428:AAHy-mRYuGKOiYmA9zLYcgaybtCX3LFokvg")
+    Dim telegramBot As New Api("Enter your API key Here!!!!")
     Dim commandFactory As New CommandSimpleFactory()
 
     Sub Main()
